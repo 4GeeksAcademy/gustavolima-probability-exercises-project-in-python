@@ -2,20 +2,16 @@
 # Probability Exercises in Python
 <!-- endhide -->
 
-Inside this repository, you will find a file called `./notebook/problems.ipynb` with the exercises you need to finish to complete it.
+This is a small exercise, where I explore working with probabilities in Python. The idea is to understand how to layout the problems and find solutions for the problems 🛠️. 
 
-## 🌱 How to start this project
+With a special focus on NumPy package, I solved typical probabilities problems with dices, balls, always having preset the idea of "Random" and "Luck".
+The specific exercices help understand how powerful mastering Python, NumPy and Mathematics can solve and test probabilities of the real world. 
 
-This project and its repository comes with the necessary files to start working.
+## Key Takes 
 
-1. Make a fork of [this repository](https://github.com/4GeeksAcademy/probability-exercises-project-in-python) into your github account.
-2. Open the recently created fork repository using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can clone it on your local computer using the `git clone` command.
-3. Once it has finished opening you can go ahead and open the `problems.ipynb` file and start solving each exercise inside the notebook.
+The most important take of this exercise is to understand and learn how useful and simple it is to lay down problems in Python and get the answers you need to your problems or testing out hypothesis before diving into more data exploration in my case. 
+At the same time working with probabilities is a good way to learn about conditionals and loops in Python. Two essential principles of coding that one needs to fully master and understand to be able to do anything with programming. 
 
-## 🚛 How to deliver this project
 
-Once you are finished solving the exercises make sure to commit your changes, push to your repository fork and go to 4Geeks.com to upload the repository link.
 
-## Solutions
 
-We also incorporated a `./notebook/solutions.ipynb` file that we strongly suggest you only use if you are stuck for more than 30min or if you have already finished and want to compare it with your approach.
